@@ -11,3 +11,4 @@ compute the value
 
 ElasticSearch HighLight
 https://stackoverflow.com/questions/44621694/elasticsearch-highlight-with-multiple-queries-not-work-as-expected
+https://discuss.elastic.co/t/highlight-the-not-correct-matching-keyword/349576
